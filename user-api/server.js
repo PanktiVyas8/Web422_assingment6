@@ -3,7 +3,6 @@
 *
 * I declare that this assignment is my own work in accordance with Seneca's
 * Academic Integrity Policy:
-*
 * https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
 *
 * Name: Pankti Vyas   Student ID: 113535173   Date: August 13 2025
