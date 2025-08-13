@@ -1,4 +1,18 @@
 
+/********************************************************************************
+* WEB422 – Assignment 6
+*
+* I declare that this assignment is my own work in accordance with Seneca's
+* Academic Integrity Policy:
+*
+* https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
+*
+* Name: Pankti Vyas   Student ID: 113535173   Date: August 13 2025
+*
+* Published URL: https://web422-assignments-tau.vercel.app/
+*
+********************************************************************************/
+
 import { atom } from 'jotai';
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3000';
